@@ -1,0 +1,12 @@
+{
+  "venvPath": ".",
+  "venv": "langgraph_env3",
+  "extraPaths": [
+    "langgraph_env3/Lib/site-packages"
+  ],
+  "exclude": [
+    "**/langgraph_env3"
+  ],
+  "pythonVersion": "3.14.6"
+
+}
